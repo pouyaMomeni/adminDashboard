@@ -1,0 +1,9 @@
+.wi {
+    width: 20px;
+    height: 20px;
+}
+
+.b-rr {
+    border: 1px solid black;
+    border-radius: 10px;
+}

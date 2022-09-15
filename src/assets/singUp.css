@@ -1,0 +1,15 @@
+.hight-log {
+    height: 100vh;
+}
+
+.w-log-form {
+    flex-basis: 550px;
+}
+
+.form-log-color {
+    background-color: #212121;
+    /* border */
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #ffc107;
+}

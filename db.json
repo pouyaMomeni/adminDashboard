@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "ali",
+      "age": "21",
+      "email": "ali@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "jalal",
+      "age": "14",
+      "email": "jalal@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "pouya",
+      "age": "22",
+      "email": "pouya@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "hamed",
+      "age": "22",
+      "email": "hamed@gmail.com",
+      "password": "123",
+      "id": 5
+    }
+  ]
+}
